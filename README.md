@@ -5,3 +5,9 @@
 | 0649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)                                                                                               | [Python](./algorithms/leetcode/dota2-senate.py)                                                |   Medium   |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)         | [Python](./algorithms/leetcode/maximum-number-of-vowels-in-a-substring-of-given-length.py)     |   Medium   |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [Python](./algorithms/leetcode/number-of-subsequences-that-satisfy-the-given-sum-condition.py) |   Medium   |
+
+# 30 Days of Leetcode Javascript Challenge
+
+| Days | Title                                                                                                                                                              | Solution                                                                  | Difficulty |
+| :--: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- | :--------: |
+|  1   | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/?utm_campaign=PostD1&utm_medium=Post&utm_source=Post&gio_link_id=QPDw0kJR) | [JS](./30-days-of-LC-javascript-challenge/create-hello-world-function.js) |    Easy    |
