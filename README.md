@@ -10,6 +10,7 @@
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)     | [Python](./algorithms/leetcode/number-of-subsequences-that-satisfy-the-given-sum-condition.py) |   Medium   |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)                                                                         | [Python](./algorithms/leetcode/matrix-diagonal-sum.py)                                         |    Easy    |
 | 1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/description/) | [Python](./algorithms/leetcode/find-the-longest-valid-obstacle-course-at-each-position.py)     |    Hard    |
+| 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)                                                         | [Python](./algorithms/leetcode/solving-questions-with-brainpower.py)                           |   Medium   |
 
 # 30 Days of Leetcode Javascript Challenge
 
