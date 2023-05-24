@@ -28,6 +28,7 @@
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list)                                                          | [Python](./algorithms/leetcode/maximum-twin-sum-of-a-linked-list.py)                           |   Medium   |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)                                                         | [Python](./algorithms/leetcode/solving-questions-with-brainpower.py)                           |   Medium   |
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/)                                                           | [Python](./algorithms/leetcode/count-ways-to-build-good-strings.py)                            |   Medium   |
+| 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score)                                                                          | [Python](./algorithms/leetcode/maximum-subsequence-score.py)                                   |   Medium   |
 
 # 30 Days of Leetcode Javascript Challenge
 
