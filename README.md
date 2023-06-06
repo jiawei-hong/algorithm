@@ -44,6 +44,7 @@
 | 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays)                                                              |               [Python](./algorithms/leetcode/intersection-of-multiple-arrays.py)               |    Easy    |
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/)                                                           |              [Python](./algorithms/leetcode/count-ways-to-build-good-strings.py)               |   Medium   |
 | 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score)                                                                          |                  [Python](./algorithms/leetcode/maximum-subsequence-score.py)                  |   Medium   |
+| 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings)                                                                          |                  [JavaScript](./algorithms/leetcode/minimum-string-length-after-removing-substrings/solution.ts)                  |   Easy   |
 
 # 30 Days of Leetcode Javascript Challenge
 
