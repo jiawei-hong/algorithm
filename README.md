@@ -89,6 +89,7 @@
 | 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score)                                                                          |                   [Python](./algorithms/leetcode/maximum-subsequence-score.py)                   |   Medium   |
 | 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings)                              | [JavaScript](./algorithms/leetcode/minimum-string-length-after-removing-substrings/solution.ts)  |    Easy    |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed)                                                          |        [JavaScript](./algorithms/leetcode/return-length-of-arguments-passed/solution.ts)         |    Easy    |
+| 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits)                                            |       [Python](./algorithms/leetcode/sum-of-values-at-indices-with-k-set-bits/solution.py)       |    Easy    |
 
 # 30 Days of Leetcode Javascript Challenge
 
