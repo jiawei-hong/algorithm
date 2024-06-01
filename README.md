@@ -116,6 +116,7 @@
 | 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words)                                            |                   [Python](./algorithms/leetcode/check-if-a-string-is-an-acronym-of-words/solution.py)                    |    Easy    |
 | 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin)                                                                        |                          [Python](./algorithms/leetcode/furthest-point-from-origin/solution.py)                           |    Easy    |
 | 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits)                                            |                   [Python](./algorithms/leetcode/sum-of-values-at-indices-with-k-set-bits/solution.py)                    |    Easy    |
+| 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string)                                                                                          |                               [Python](./algorithms/leetcode/score-of-a-string/solution.go)                               |    Easy    |
 
 # 30 Days of Leetcode Javascript Challenge
 
