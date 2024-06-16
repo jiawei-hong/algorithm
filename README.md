@@ -119,6 +119,7 @@
 | 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin)                                                                        |                          [Python](./algorithms/leetcode/furthest-point-from-origin/solution.py)                           |    Easy    |
 | 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits)                                            |                   [Python](./algorithms/leetcode/sum-of-values-at-indices-with-k-set-bits/solution.py)                    |    Easy    |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string)                                                                                          |                               [Python](./algorithms/leetcode/score-of-a-string/solution.go)                               |    Easy    |
+| 3184 | [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i)                                                |                    [Python](./algorithms/leetcode/count-pairs-that-form-a-complete-day-i/solution.py)                     |    Easy    |
 
 # 30 Days of Leetcode Javascript Challenge
 
